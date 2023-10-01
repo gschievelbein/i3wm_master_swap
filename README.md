@@ -7,7 +7,7 @@ Just bind it to a key combination in your config:
 
 * bindsym  <binding> exec $XDG_CONFIG_HOME/i3/scripts/swapper.py
   
-Use it with https://github.com/ViliamV/stacki3 for a simple master/stack layout :)
+Use it with https://github.com/gschievelbein/stacki3 for a simple master/stack layout :)
   
 # Requirements
 * i3ipc-python
