@@ -4,7 +4,7 @@ import i3ipc
 
 i3 = i3ipc.Connection()
 focused = i3.get_tree().find_focused()
-windows = i3.get_tree().find_focused().workspace().leaves()
+windows = focused.workspace().leaves()
 
 if (len(windows)>1):
   largest_size=0
