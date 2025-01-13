@@ -1,6 +1,6 @@
 # i3wm_master_swap
 
-Quick script to swap the focused window the largest window in the same screen (i3wm/sway).
+Quick script to swap the focused window to the largest window in the same screen (i3wm/sway).
 
 
 Just bind it to a key combination in your config:
